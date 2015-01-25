@@ -3,7 +3,7 @@
 /** @var \Doctrine\ORM\EntityManager $em */
 $em = require __DIR__ . '/_header.php';
 
-use Xusifob\PokemonBattle\Trainer;
+use TiNyDGZz\PokemonBattle\Trainer;
 
 $success = NULL;
 $error = NULL;
